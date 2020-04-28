@@ -10,3 +10,8 @@ Sample website with plenty of files for demos
 
 sssdfffffgg
 ## How To Contribute
+
+## Deploy
+
+
+Its a great excercise
