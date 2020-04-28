@@ -11,6 +11,7 @@ Sample website with plenty of files for demos
 sssdfffffgg
 ## How To Contribute
 
+Always make changes and add to git
 ## Deploy
 
 
